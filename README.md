@@ -1,16 +1,18 @@
-## Hi there 👋
+# hi boy and girl
+### I'm kuる
 
-<!--
-**to9kuru/to9kuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [メール](mailto:to9kuru@gmail.com)
+- [Twitter]([https://x.com/toku_ru_])
+
+## 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=to9kuru&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=to9kuru&layout=compact&theme=radical)
+
+## 🚀
+
+- [twitter承認欲求満たし](https://to9kuru.github.io/tw_syounin/)
