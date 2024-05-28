@@ -6,7 +6,7 @@
 ## 📫
 
 - [メール](mailto:to9kuru@gmail.com)
-- [x]([https://x.com/toku_ru_])
+- [twitter]([https://twitter.com/toku_ru_])
 
 ## 📊
 
